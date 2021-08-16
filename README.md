@@ -12,4 +12,4 @@ Model: [CR](https://github.com/Awenbocc/med-vqa)
 python main.py 
 
 # License
-MIT License
+Apache License 2.0
