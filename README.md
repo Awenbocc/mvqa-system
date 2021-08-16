@@ -1,7 +1,7 @@
 # Med-VQA System
 A PyQt5-Based Practical System for Med-VQA
 <br>
-Dataset: [VQA-RAD]
+Dataset: VQA-RAD
 <br>
 Model: [CR](https://github.com/Awenbocc/med-vqa) 
 
