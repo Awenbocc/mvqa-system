@@ -2,7 +2,7 @@
 A Practical System for Med-VQA
 
 # Window
-![imgs/img]
+![window](https://github.com/Awenbocc/mvqa-system/blob/main/images/cover.png?raw=true)
 
-#Usage
+# Usage
 Run main.py 
