@@ -5,4 +5,4 @@ A Practical System for Med-VQA
 ![window](https://github.com/Awenbocc/mvqa-system/blob/main/images/cover.png?raw=true)
 
 # Usage
-Run main.py 
+python main.py 
