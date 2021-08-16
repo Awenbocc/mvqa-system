@@ -1,6 +1,8 @@
 # Med-VQA System
 A PyQt5-Based Practical System for Med-VQA
+<br>
 Dataset: [VQA-RAD]
+<br>
 Model: [CR](https://github.com/Awenbocc/med-vqa) 
 
 # Window
@@ -8,3 +10,6 @@ Model: [CR](https://github.com/Awenbocc/med-vqa)
 
 # Usage
 python main.py 
+
+# License
+MIT License
